@@ -1,0 +1,19 @@
+/*resetar o css padrao*/
+
+*{
+
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+
+}
+.menu-nav{
+
+    border: 1px solid red;
+    display: flex
+    justify-content: space-evenly;
+
+}
+
+.menu-nav . logo{
+    ===

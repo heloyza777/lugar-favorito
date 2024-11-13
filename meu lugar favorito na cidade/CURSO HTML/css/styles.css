@@ -1,0 +1,46 @@
+
+
+
+
+/*Importando fontes do Google Fonts*/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+/*
+Res
+  <!-- DIV´S  -->
+
+  etando as configurações padrão do CSS
+*/
+body{
+  background-color: rgb(14, 127, 155);
+
+
+
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "poppins",sans-serif;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.pai img{
+    /*Tamanho ou largura da imagem*/
+    width: 150px; 
+/*Altura da imagem*/
+    height: 150px;
+}
+
+.pai h3{
+    font-size: 20px;
+    font-weight: bold;
+    color:blue;
+    text-transform: uppercase;
+}
+
+#exemplo_decaso{
+    color: red;
+}
